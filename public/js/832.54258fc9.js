@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkprojectmercenary"]=self["webpackChunkprojectmercenary"]||[]).push([[832],{2832:function(r,e,n){n.r(e),n.d(e,{default:function(){return i}});var t=n(3396);const c={style:{color:"white"}};function a(r,e){return(0,t.wg)(),(0,t.iD)("div",c,"transaction")}var o=n(89);const u={},s=(0,o.Z)(u,[["render",a]]);var i=s}}]);
+//# sourceMappingURL=832.54258fc9.js.map
